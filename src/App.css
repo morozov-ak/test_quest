@@ -6,7 +6,16 @@
   height: 40vmin;
   pointer-events: none;
 }
-
+.Validate{
+  background-color: palegreen;
+  border: solid 1px black;
+  margin: 20px;
+}
+.SomeComponent{
+  margin: 10px;
+  background-color: #a7e7f8;
+  border: solid 2px red;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
